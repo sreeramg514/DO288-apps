@@ -1,0 +1,3 @@
+echo "TESTING CUSTOME budils"
+echo "TESTING CUSTOME budils" > /var/tmp/logging
+
