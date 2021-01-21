@@ -1,3 +1,4 @@
 echo "TESTING CUSTOME budils"
 echo "TESTING CUSTOME budils" > /var/tmp/logging
+/usr/libexec/s2i/assemble
 
